@@ -1,2 +1,2 @@
-# logos
-A collection of SVG logos
+# Logos
+A collection of SVG logos for developers, geeks
